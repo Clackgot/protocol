@@ -1,4 +1,4 @@
-module github.com/teeworlds-go/protocol
+module github.com/Clackgot/protocol
 
 go 1.22.3
 
